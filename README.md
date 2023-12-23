@@ -1,18 +1,23 @@
-## Getting Started
+## KELOMPOK 4 (INFORMATIKA-B)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. MUHAMMAD WIGUNA ILHAM (1237050012)
 
-## Folder Structure
+   - model.Adventurer.java
+   - controller.GameController.java
+   - view.GameView.java
+   - TextAdventureGameMVC.java
 
-The workspace contains two folders by default, where:
+2. MUHAMMAD IRSYAD MUSTAQIM (1237050050)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+   - model.Inventory.java
+   - model.Room.java
+   - model.Potion.java
+   - model.Weapon.java
+   - model.TextAdventureGameModel.java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+3. NADIA PUSPA DEWI (1237050146)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+   - model.GameObject.java
+   - model.Monster.java
+   - model.MiniMonster.java
+   - model.BossMonster.java
